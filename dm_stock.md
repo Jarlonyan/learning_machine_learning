@@ -5,7 +5,7 @@
 
 # 2. 使用python获取股票数据
 
-+ tushare是国人做的python爬虫库，可以获取股票、期货、宏观经济等数据。  
++ tushare是国人做的python爬虫库，可以获取股票、期货、宏观经济等数据.  
   [tushare官网](http://tushare.waditu.com/)  
   [python使用tushare库获取股票历史数据](https://zhuanlan.zhihu.com/p/23154693)  
   [python使用requests库获取股票实时价格](https://zhuanlan.zhihu.com/p/24446580)  
