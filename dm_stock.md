@@ -1,9 +1,7 @@
 
 # 1. 股票基础知识
 
-
-[网盘链接](http://pan.baidu.com/s/1nv7asPV) ， 密码：`uxjv`
-
+&emsp; [网盘链接](http://pan.baidu.com/s/1nv7asPV) ， 密码：`uxjv`
 
 # 2. 使用python获取股票数据
 
