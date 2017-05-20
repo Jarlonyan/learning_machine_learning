@@ -10,8 +10,8 @@
 + tushare是一个中国人做的python包。  
  [tushare官网](http://tushare.waditu.com/)  
  [python使用tushare库获取股票历史数据](https://zhuanlan.zhihu.com/p/23154693)  
-&emsp; [python使用requests库获取股票实时价格](https://zhuanlan.zhihu.com/p/24446580)  
-&emsp; [python分析股票__知乎](https://www.zhihu.com/question/52887249) 
+ [python使用requests库获取股票实时价格](https://zhuanlan.zhihu.com/p/24446580)  
+ [python分析股票__知乎](https://www.zhihu.com/question/52887249) 
 
 + tushare使用的demo:
 
@@ -56,9 +56,9 @@ print ts.get_cpi()
 &emsp;&emsp; python的库一般对mac和linux比较友好，安装比较容易。不赘述。
 
 + windows下安装：  
-&emsp; 1.并不需要安装anaconda，仅用pip就可以。用pip安装wheel、scipy。  
-&emsp; 2.pip install keras。或者这几个库都在 [python package](http://www.lfd.uci.edu/~gohlke/pythonlibs/#ndimage) 中下载、安装。  
-&emsp; 3.安装的keras默认的backend是Tensorflow，但是由于TensorFlow在windows上支持不好（目前仅支持python3.5-64bit），所以我们将keras的backend设置为theano，需要修改 ` C:\用户\Administrator\.keras\kras.json ` ：  
+ 1.并不需要安装anaconda，仅用pip就可以。用pip安装wheel、scipy。  
+ 2.pip install keras。或者这几个库都在 [python package](http://www.lfd.uci.edu/~gohlke/pythonlibs/#ndimage) 中下载、安装。  
+ 3.安装的keras默认的backend是Tensorflow，但是由于TensorFlow在windows上支持不好（目前仅支持python3.5-64bit），所以我们将keras的backend设置为theano，需要修改 ` C:\用户\Administrator\.keras\kras.json ` ：  
 
 ```
 {
