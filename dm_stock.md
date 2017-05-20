@@ -5,14 +5,22 @@
 
 # 2. 使用python获取股票数据
 
-+ tushare是一个中国人做的python包。  
-  [tushare官网](http://tushare.waditu.com/)  
++ tushare是国人做的python爬虫库，股票、期货、宏观经济、电影票房（？？？）等数据。。  
+  [tushare官网](http://tushare.waditu.com/)  
   [python使用tushare库获取股票历史数据](https://zhuanlan.zhihu.com/p/23154693)  
   [python使用requests库获取股票实时价格](https://zhuanlan.zhihu.com/p/24446580)  
-  [python分析股票__知乎](https://www.zhihu.com/question/52887249) 
+  [python分析股票__知乎](https://www.zhihu.com/question/52887249) 
+  [tushare_github](https://github.com/waditu/tushare)  
 
-+ tushare使用的demo:
++ tushare安装  
+```python
+    pip install lxml
+    pip install pandas
+    pip install matplotlib
+    pip install tushare
+```
 
++ tushare使用的demo:  
 ```python
 import tushare as ts
 ts.get_hist_data('600848')
