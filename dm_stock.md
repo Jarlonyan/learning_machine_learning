@@ -55,9 +55,8 @@ print ts.get_cpi()
 # 3 深度学习模型预测股市  
 **keras**是一个基于python及theano的深度学习框架，人气比较旺，文档很全。提供较为上层的框架，搞个深度学习的原型非常方便。
 
-## 3.1. 环境搭建
+## 3.1. keras环境搭建
 
-+ mac、linux  
   python的库一般对mac和linux比较友好，安装比较容易。不赘述。
 
 + windows下安装：  
