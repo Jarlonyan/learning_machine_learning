@@ -53,9 +53,9 @@ print ts.get_cpi()
   python的库一般对mac和linux比较友好，安装比较容易。不赘述。
 
 + windows下安装：  
-  1) 并不需要安装anaconda，仅用pip就可以。用pip安装wheel、scipy。  
-  2) pip install keras。或者这几个库都在 [python package](http://www.lfd.uci.edu/~gohlke/pythonlibs/#ndimage) 中下载、安装。  
-  3) 安装的keras默认的backend是Tensorflow，但是由于TensorFlow在windows上支持不好（目前仅支持python3.5-64bit），所以我们将keras的backend设置为theano，需要修改 ` C:\用户\Administrator\.keras\kras.json ` ：  
+  1)并不需要安装anaconda，仅用pip就可以。用pip安装wheel、scipy。  
+  2)pip install keras。或者这几个库都在 [python package](http://www.lfd.uci.edu/~gohlke/pythonlibs/#ndimage) 中下载、安装。  
+  3)安装的keras默认的backend是Tensorflow，但是由于TensorFlow在windows上支持不好（目前仅支持python3.5-64bit），所以我们将keras的backend设置为theano，需要修改 ` C:\用户\Administrator\.keras\kras.json ` ：  
 
 ```
 {
