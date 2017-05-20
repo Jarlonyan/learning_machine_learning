@@ -5,7 +5,7 @@
 [网盘链接](http://pan.baidu.com/s/1nv7asPV) ， 密码：`uxjv`
 
 
-# 2. python分析股票
+# 2. 使用python获取股票数据
 
 
 [python分析股票__知乎](https://www.zhihu.com/question/52887249)
@@ -18,7 +18,7 @@
 [python使用requests库获取股票实时价格](https://zhuanlan.zhihu.com/p/24446580)
 
 
-+ tushare demo:
++ tushare使用的demo:
 
 ```python
 import tushare as ts
@@ -58,7 +58,7 @@ print ts.get_cpi()
 
 + mac、linux
 
-python的库一般对mac和linux比较友好，安装比较容易。不赘述。
+&emsp; python的库一般对mac和linux比较友好，安装比较容易。不赘述。
 
 + windows下安装：
 
