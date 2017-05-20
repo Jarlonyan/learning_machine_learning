@@ -6,10 +6,10 @@
 # 2. 使用python获取股票数据
 
 + tushare是一个中国人做的python包。  
- [tushare官网](http://tushare.waditu.com/)  
- [python使用tushare库获取股票历史数据](https://zhuanlan.zhihu.com/p/23154693)  
- [python使用requests库获取股票实时价格](https://zhuanlan.zhihu.com/p/24446580)  
- [python分析股票__知乎](https://www.zhihu.com/question/52887249) 
+  [tushare官网](http://tushare.waditu.com/)  
+  [python使用tushare库获取股票历史数据](https://zhuanlan.zhihu.com/p/23154693)  
+  [python使用requests库获取股票实时价格](https://zhuanlan.zhihu.com/p/24446580)  
+  [python分析股票__知乎](https://www.zhihu.com/question/52887249) 
 
 + tushare使用的demo:
 
@@ -31,11 +31,11 @@ ts.get_hist_data('sz50'）#获取上证50指数k线数据
 ts.get_hist_data('zxb'）#获取中小板指数k线数据
 ts.get_hist_data('cyb'）#获取创业板指数k线数据
 
-2.获取基本面数据
+#2.获取基本面数据
 通过tushare我们还可以通过ts.get_stock_basics()获取基本面数据（返回结果部分展示）：
 ts.get_stock_basics()
 
-3.宏观数据
+#3.宏观数据
 我们以居民消费指数为例，可以通过ts.get_cpi()函数获取（一次会获取322条，部分展示）：
 print ts.get_cpi()
 ```
@@ -44,19 +44,18 @@ print ts.get_cpi()
 
 
 
-# 3 深度学习模型预测股市
+# 3 深度学习模型预测股市  
 **keras**是一个基于python及theano的深度学习框架，人气比较旺，文档很全。提供较为上层的框架，搞个深度学习的原型非常方便。
 
 ## 3.1. 环境搭建
 
-+ mac、linux
-
-&emsp;&emsp; python的库一般对mac和linux比较友好，安装比较容易。不赘述。
++ mac、linux  
+  python的库一般对mac和linux比较友好，安装比较容易。不赘述。
 
 + windows下安装：  
- 1.并不需要安装anaconda，仅用pip就可以。用pip安装wheel、scipy。  
- 2.pip install keras。或者这几个库都在 [python package](http://www.lfd.uci.edu/~gohlke/pythonlibs/#ndimage) 中下载、安装。  
- 3.安装的keras默认的backend是Tensorflow，但是由于TensorFlow在windows上支持不好（目前仅支持python3.5-64bit），所以我们将keras的backend设置为theano，需要修改 ` C:\用户\Administrator\.keras\kras.json ` ：  
+  1. 并不需要安装anaconda，仅用pip就可以。用pip安装wheel、scipy。  
+  2. pip install keras。或者这几个库都在 [python package](http://www.lfd.uci.edu/~gohlke/pythonlibs/#ndimage) 中下载、安装。  
+  3. 安装的keras默认的backend是Tensorflow，但是由于TensorFlow在windows上支持不好（目前仅支持python3.5-64bit），所以我们将keras的backend设置为theano，需要修改 ` C:\用户\Administrator\.keras\kras.json ` ：  
 
 ```
 {
@@ -80,6 +79,6 @@ print ts.get_cpi()
 
 [LSTM预测股票最高价](http://blog.csdn.net/mylove0414/article/details/56969181)
 
-
+![LSTM预测CPI](images/dm_stock_lstm_cpi.png)
 
 
