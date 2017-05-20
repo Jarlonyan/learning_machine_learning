@@ -77,12 +77,12 @@ python的库一般对mac和linux比较友好，安装比较容易。不赘述。
 
 
 
-# 3.2. keras入门
+## 3.2. keras入门
 
 参考  [深度学习框架Keras简介](http://www.open-open.com/lib/view/open1430982565991.html)
 
 
-# 3.3. 使用keras中的LSTM做时间序列预测
+## 3.3. 使用keras中的LSTM做时间序列预测
 
 参考博客 [LSTM时间序列预测](http://www.jianshu.com/p/fbd6d3c1dc21)
 
