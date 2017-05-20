@@ -8,8 +8,8 @@
 # 2. 使用python获取股票数据
 
 + tushare是一个中国人做的python包。  
-&emsp; [tushare官网](http://tushare.waditu.com/)  
-&emsp; [python使用tushare库获取股票历史数据](https://zhuanlan.zhihu.com/p/23154693)  
+ [tushare官网](http://tushare.waditu.com/)  
+ [python使用tushare库获取股票历史数据](https://zhuanlan.zhihu.com/p/23154693)  
 &emsp; [python使用requests库获取股票实时价格](https://zhuanlan.zhihu.com/p/24446580)  
 &emsp; [python分析股票__知乎](https://www.zhihu.com/question/52887249) 
 
