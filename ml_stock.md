@@ -10,7 +10,7 @@
 4、在线量化平台。比如[BigQuant平台](www.bigquant.com),有丰富的数据，包括行情、财务、基本面、因子数据。  
 5、一些开源数据包，比如Tushare  
 
-# 2. 使用python获取股票数据
+# 2. 使用tushare获取股票数据
 
 + tushare是国人做的python爬虫库，可以获取股票、期货、宏观经济等数据.  
   [tushare官网](http://tushare.waditu.com/)  
