@@ -89,10 +89,9 @@ print ts.get_cpi()
 
 ## 3.3. 使用keras中的LSTM做时间序列预测
 
-参考博客 [LSTM时间序列预测](http://www.jianshu.com/p/fbd6d3c1dc21)
-
-[LSTM预测股票最高价](http://blog.csdn.net/mylove0414/article/details/56969181)
-
-![LSTM预测CPI](images/dm_stock_lstm_cpi.png)
++ [LSTM实战](http://www.jianshu.com/p/5d6d5aac4dbd)  
++ [LSTM时间序列预测](http://www.jianshu.com/p/fbd6d3c1dc21)  
++ [LSTM预测股票最高价](http://blog.csdn.net/mylove0414/article/details/56969181)  
+  ![LSTM预测CPI](images/dm_stock_lstm_cpi.png)
 
 
