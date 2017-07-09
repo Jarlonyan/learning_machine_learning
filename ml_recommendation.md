@@ -9,5 +9,5 @@
   [Wide & Deep Learning: Better Together with TensorFlow](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)  
 
 + [深度学习在推荐系统中的应用](https://zhuanlan.zhihu.com/p/27231244)  
-+ [深度学习五大算法](https://zhuanlan.zhihu.com/p/27768663)
++ [推荐系统常用的五大算法](https://zhuanlan.zhihu.com/p/27768663)
 
