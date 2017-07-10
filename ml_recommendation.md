@@ -1,5 +1,6 @@
 
-+ [推荐系统常用的五大算法](https://zhuanlan.zhihu.com/p/27768663)  
++ 推荐系统常用算法  
+  [详解个性化推荐五大最常用算法](https://zhuanlan.zhihu.com/p/27768663)  
 
 + FM模型  
   [FM(Factorization Machines)推荐算法原理](http://www.cnblogs.com/pinard/p/6370127.html)  
