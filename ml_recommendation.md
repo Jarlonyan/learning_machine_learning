@@ -16,6 +16,6 @@
   [Official Tutorial](https://www.tensorflow.org/tutorials/wide_and_deep)  
   [Wide & Deep Learning: Better Together with TensorFlow](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)  
 
-
++ [paddlepaddle个性化推荐](http://book.paddlepaddle.org/index.cn.html)
 
 
