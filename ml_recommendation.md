@@ -15,7 +15,7 @@
   [Paper](http://delivery.acm.org/10.1145/2990000/2988454/p7-cheng.pdf?ip=180.76.13.8&id=2988454&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&CFID=954429471&CFTOKEN=89666912&__acm__=1498911787_8e7a630fecd50447d197a89409c9eb92)  
   [Official Tutorial](https://www.tensorflow.org/tutorials/wide_and_deep)  
   [Wide & Deep Learning: Better Together with TensorFlow](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)  
-  [Wide&Deep在PaddlePaddle中的实践](http://models.paddlepaddle.org/2017/05/24/ctr-README.html)
+  [Wide&Deep在PaddlePaddle中的实践](http://models.paddlepaddle.org/2017/05/24/ctr-README.html)  
 
 + [paddlepaddle个性化推荐](http://book.paddlepaddle.org/index.cn.html)  
 + [排序学习](http://models.paddlepaddle.org/2017/04/21/ltr-README.html)
