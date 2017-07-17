@@ -19,4 +19,4 @@
 
 + [paddlepaddle个性化推荐](http://book.paddlepaddle.org/index.cn.html)  
 + [排序学习](http://models.paddlepaddle.org/2017/04/21/ltr-README.html)
-
++ [在线学习](http://wxwidget.github.io/blog/2014/01/24/online-learning-survey/)
