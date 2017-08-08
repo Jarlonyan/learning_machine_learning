@@ -5,6 +5,7 @@
   [详解个性化推荐五大最常用算法](https://zhuanlan.zhihu.com/p/27768663)  
 
 + FM模型  
+  [FM算法](http://blog.csdn.net/google19890102/article/details/45532745)
   [FM(Factorization Machines)推荐算法原理](http://www.cnblogs.com/pinard/p/6370127.html)  
   [深入浅出ML之Factorization家族](http://www.52caml.com/head_first_ml/ml-chapter9-factorization-family/)  
   
