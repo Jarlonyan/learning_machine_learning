@@ -10,8 +10,10 @@
   [深入浅出ML之Factorization家族](http://www.52caml.com/head_first_ml/ml-chapter9-factorization-family/)  
   
  
-+ [深度学习在推荐系统中的应用](https://zhuanlan.zhihu.com/p/27231244)  
-  
++ 推荐系统和deep-learning  
+  [深度学习在推荐系统中的应用](https://zhuanlan.zhihu.com/p/27231244)  
+  [近几年推荐系统中deep-learning相关文章](http://shuaizhang.tech/2017/07/28/Summary-of-Recommender-System-Surveys-in-recent-years/)  
+ 
 + Wide&Deep模型  
   [Paper](http://delivery.acm.org/10.1145/2990000/2988454/p7-cheng.pdf?ip=180.76.13.8&id=2988454&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&CFID=954429471&CFTOKEN=89666912&__acm__=1498911787_8e7a630fecd50447d197a89409c9eb92)  
   [Official Tutorial](https://www.tensorflow.org/tutorials/wide_and_deep)  
