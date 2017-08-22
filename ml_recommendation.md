@@ -1,8 +1,14 @@
 
-
++ 综合
+  [这些年我用过的CTR预估模型](http://www.infosec-wiki.com/?p=316621)  
+  [广告点击率预估是怎么回事](https://cn.linkedin.com/pulse/%E5%B9%BF%E5%91%8A%E7%82%B9%E5%87%BB%E7%8E%87%E9%A2%84%E4%BC%B0%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B-chen-ouyang)  
+  [CTR预估--Yittoo blog](http://www.yittoo.com/blog/index.php/tag/ctr/)  
+  [闲聊DNN CTR预估模型](http://www.52cs.org/?p=1046)  
+  [我用过的CTR预估模型](http://ju.outofmemory.cn/entry/323523)  
 
 + 推荐系统常用算法  
   [详解个性化推荐五大最常用算法](https://zhuanlan.zhihu.com/p/27768663)  
+
 
 + FM模型  
   [FM算法](http://blog.csdn.net/google19890102/article/details/45532745)  
@@ -24,6 +30,7 @@
 + Youtube推荐模型  
   [Youtube推荐模型在paddle中的实践](http://book.paddlepaddle.org/index.cn.html)  
   [YouTube论文翻译版](http://baguadi.com/articles/O014171T.html)  
+  [YouTube论文翻译版2](http://chuansong.me/n/1599281452163)  
   
 + [排序学习](http://models.paddlepaddle.org/2017/04/21/ltr-README.html)
 + 在线学习  
