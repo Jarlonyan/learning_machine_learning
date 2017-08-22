@@ -22,7 +22,9 @@
   [Wide&Deep在PaddlePaddle中的实践](http://models.paddlepaddle.org/2017/05/24/ctr-README.html)  
 
 + Youtube推荐模型  
-  [Youtube推荐模型在paddle中的实践](http://book.paddlepaddle.org/index.cn.html)  
+  [Youtube推荐模型在paddle中的实践](http://book.paddlepaddle.org/index.cn.html)  
+  [YouTube论文翻译版](http://baguadi.com/articles/O014171T.html)  
+  
 + [排序学习](http://models.paddlepaddle.org/2017/04/21/ltr-README.html)
 + 在线学习  
   [在线学习--Yang Cheng](http://wxwidget.github.io/blog/2014/01/24/online-learning-survey/)  
