@@ -34,6 +34,6 @@
   
 + [排序学习](http://models.paddlepaddle.org/2017/04/21/ltr-README.html)
 + 在线学习  
-  [在线学习--Yang Cheng](http://wxwidget.github.io/blog/2014/01/24/online-learning-survey/)  
-  [Bandit:一种简单而强大的在线学习算法](http://blog.findshine.com/2015/01/03/bandit.html)
+  [在线学习--Yang Cheng](http://wxwidget.github.io/blog/2014/01/24/online-learning-survey/)   
+  [Bandit:一种简单而强大的在线学习算法](http://blog.findshine.com/2015/01/03/bandit.html)  
 
