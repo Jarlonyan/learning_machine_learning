@@ -38,7 +38,7 @@
   [Bandit:一种简单而强大的在线学习算法](http://blog.findshine.com/2015/01/03/bandit.html)  
 
 
-+ [论文] 
++ 论文   
   [2017年顶级会议上的推荐算法](https://zhuanlan.zhihu.com/p/28210449)  
   
   
