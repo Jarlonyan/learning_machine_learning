@@ -14,6 +14,7 @@
   [FM算法](http://blog.csdn.net/google19890102/article/details/45532745)  
   [FM(Factorization Machines)推荐算法原理](http://www.cnblogs.com/pinard/p/6370127.html)  
   [深入浅出ML之Factorization家族](http://www.52caml.com/head_first_ml/ml-chapter9-factorization-family/)  
+  [FM,FTRL](http://castellanzhang.github.io/2016/10/16/fm_ftrl_softmax/)
   
  
 + 推荐系统和deep-learning  
