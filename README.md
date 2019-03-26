@@ -3,7 +3,7 @@
 
 + 关于机器学习的博客质量非常高：https://kexue.fm/archives/5112
 + 阮一峰的博客：http://www.ruanyifeng.com/blog/
-+ 遗传算法：http://wulc.me/2017/04/10/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/
++ 遗传算法：[http://wulc.me/](http://wulc.me/2017/04/10/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/)
 
 
 
