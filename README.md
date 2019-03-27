@@ -2,7 +2,8 @@
 # 1、机器学习优秀的博客
 
 + kexue.fm，机器学习相关，质量很高：https://kexue.fm/archives/5112
-+ 刘建平，推荐算法相关：https://www.cnblogs.com/pinard/p/6093948.html
++ 刘建平，推荐算法相关：[https://www.cnblogs.com/pinard/](https://www.cnblogs.com/pinard/p/6093948.html)
++ 美团推荐算法系列：[https://tech.meituan.com](https://tech.meituan.com/2018/06/07/searchads-dnn.html)
 + 阮一峰的博客：http://www.ruanyifeng.com/blog/
 + 遗传算法：[http://wulc.me/](http://wulc.me/2017/04/10/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/)
 
