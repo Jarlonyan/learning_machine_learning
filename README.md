@@ -3,11 +3,11 @@
 
 收集了一些关于机器学习的优秀博客，相关博主写了一系列的机器学习文章，非常好。其中，每个博客，选择了几篇代表性的文章。
 
-+ **kexue.fm**，机器学习相关，质量很高：[kexue.fm](https://kexue.fm/archives/5112)
-+ 天空的城：[shomy.top](http://shomy.top/2017/02/26/rbf-network/)
++ **kexue.fm，机器学习相关，质量很高：[kexue.fm](https://kexue.fm/archives/5112)  **
++ **天空的城：[shomy.top](http://shomy.top/2017/02/26/rbf-network/)**
   + 径向基网络RBF  [link](http://shomy.top/2017/02/26/rbf-network/)
   + 推荐系统结合知识图谱简单总结  [link](http://shomy.top/2019/03/19/kg-ns-recsys/)
-+ **三年一梦**，博客园：[cnblogs.com/king-lps](https://www.cnblogs.com/king-lps/default.html?page=2)
++ **三年一梦，博客园：[cnblogs.com/king-lps](https://www.cnblogs.com/king-lps/default.html?page=2)**
   + Focal Loss 理解  [link](https://www.cnblogs.com/king-lps/p/9497836.html)
   + 图像超分辨率   [link](https://www.cnblogs.com/king-lps/p/9135840.html)
   + pytorch孪生网络  [link](https://www.cnblogs.com/king-lps/p/8342452.html)
