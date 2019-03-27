@@ -3,6 +3,7 @@
 
 + kexue.fm，机器学习相关，质量很高：https://kexue.fm/archives/5112
 + 天空的城：http://shomy.top/2017/02/26/rbf-network/
++ 三年一梦，博客园：https://www.cnblogs.com/king-lps/default.html?page=2
 + 刘建平，推荐算法相关：[https://www.cnblogs.com/pinard/](https://www.cnblogs.com/pinard/p/6093948.html)
 + 美团推荐算法系列：[https://tech.meituan.com](https://tech.meituan.com/2018/06/07/searchads-dnn.html)
 + 阮一峰的博客：http://www.ruanyifeng.com/blog/
