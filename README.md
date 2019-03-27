@@ -1,6 +1,8 @@
 
 # 1、机器学习优秀的博客
 
+收集了一些关于机器学习的优秀博客，相关博主写了一系列的机器学习文章，非常好
+
 + **kexue.fm**，机器学习相关，质量很高：https://kexue.fm/archives/5112
 + 天空的城：http://shomy.top/2017/02/26/rbf-network/
 + **三年一梦**，博客园：https://www.cnblogs.com/king-lps/default.html?page=2
