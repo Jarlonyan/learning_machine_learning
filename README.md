@@ -8,6 +8,8 @@
 + **三年一梦**，博客园：https://www.cnblogs.com/king-lps/default.html?page=2
 + **刘建平**，推荐算法相关：[https://www.cnblogs.com/pinard/](https://www.cnblogs.com/pinard/p/6093948.html)
 + **美团推荐算法系列**：[https://tech.meituan.com](https://tech.meituan.com/2018/06/07/searchads-dnn.html)
+  + [深度学习在美团搜索广告排序的应用实践](https://tech.meituan.com/2018/06/07/searchads-dnn.html)
+  + [深度学习在搜索业务中的探索与实践](https://tech.meituan.com/2019/01/10/deep-learning-in-meituan-hotel-search-engine.html)
 + 阮一峰的博客：http://www.ruanyifeng.com/blog/
 + 遗传算法：[http://wulc.me/](http://wulc.me/2017/04/10/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/)
 
