@@ -14,8 +14,9 @@
   + 深度学习在美团搜索广告排序的应用实践  [link](https://tech.meituan.com/2018/06/07/searchads-dnn.html)
   + 深度学习在搜索业务中的探索与实践  [link](https://tech.meituan.com/2019/01/10/deep-learning-in-meituan-hotel-search-engine.html)
 + 阮一峰的博客：http://www.ruanyifeng.com/blog/
-+ 遗传算法：[wulc.me](http://wulc.me/2017/04/10/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/)
-
++ 吴良超的博客：[wulc.me](http://wulc.me/2017/04/10/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/)
+  + 遗传算法： [link](http://wulc.me/2017/04/10/%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/)
+  + 深度学习在表情学习中的应用： [link](http://wulc.me/2017/09/03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9C%A8%E8%A1%A8%E6%83%85%E8%AF%86%E5%88%AB%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E6%8E%A2%E7%B4%A2/)
 
 
 
