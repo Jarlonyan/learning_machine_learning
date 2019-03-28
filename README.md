@@ -23,8 +23,8 @@
   + 深度学习在表情学习中的应用： [link](http://wulc.me/2017/09/03/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9C%A8%E8%A1%A8%E6%83%85%E8%AF%86%E5%88%AB%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E6%8E%A2%E7%B4%A2/)
 + Ryan's Blog
   + DeepWalk [link](https://huangzhanpeng.github.io/2018/01/05/DeepWalk-online-learning-of-social-representations/)
-
-
++ Rachel Zhang [csdn/Rachel Zhang](https://blog.csdn.net/abcjennifer?viewmode=contents)
+  + Cuda学习系列 [link](https://blog.csdn.net/abcjennifer/article/details/42436727)
 
 # 2、机器学习的应用
 
