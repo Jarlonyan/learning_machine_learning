@@ -25,7 +25,7 @@
   + DeepWalk [link](https://huangzhanpeng.github.io/2018/01/05/DeepWalk-online-learning-of-social-representations/)
 + Rachel Zhang [csdn/Rachel Zhang](https://blog.csdn.net/abcjennifer?viewmode=contents)
   + Cuda学习系列 [link](https://blog.csdn.net/abcjennifer/article/details/42436727)
-+ 皮果提，LaTeX写的公式特别漂亮 [csdn/](https://blog.csdn.net/itplus/article/details/26549871)
++ 皮果提，LaTeX写的公式特别漂亮 [csdn/itplus](https://blog.csdn.net/itplus/article/details/26549871)
   + 最大熵模型  [link](https://blog.csdn.net/itplus/article/details/26549871)
   + 关于协方差矩阵的理解  [link](https://blog.csdn.net/itplus/article/details/11452743)
   + word2vec [link](https://blog.csdn.net/itplus/article/details/37969979)
