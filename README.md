@@ -4,6 +4,8 @@
 收集了一些关于机器学习的优秀博客，相关博主写了一系列的机器学习文章，非常好。其中，每个博客，选择了几篇代表性的文章。
 
 + **kexue.fm，机器学习相关，质量很高：[kexue.fm](https://kexue.fm/archives/5112)**
+  + 从K-Means到Capsule  [link](https://kexue.fm/archives/5112)
+  + 基于fine tune的图像分类（百度分狗竞赛） [link](https://kexue.fm/archives/4611)
 + **天空的城：[shomy.top](http://shomy.top/2017/02/26/rbf-network/)**
   + 径向基网络RBF  [link](http://shomy.top/2017/02/26/rbf-network/)
   + 推荐系统结合知识图谱简单总结  [link](http://shomy.top/2019/03/19/kg-ns-recsys/)
