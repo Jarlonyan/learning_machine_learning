@@ -32,7 +32,14 @@
   + 关于协方差矩阵的理解  [link](https://blog.csdn.net/itplus/article/details/11452743)
   + word2vec [link](https://blog.csdn.net/itplus/article/details/37969979)
 
-# 2、机器学习的应用
+# 2、其他的工程类的博客
+
++ numpy教程  [link](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247486490&idx=1&sn=9b9a1de0056c790f23834d4dff729e2e&chksm=fb39a911cc4e2007774690bec02d81578fa9db5dd124ff9dadaad5f41d2c64e1fce52b874dc1&mpshare=1&scene=23&srcid=#rd)
+
+
+
+
+# 3、机器学习的应用
 
 |  应用场景        |     详细链接   |   备注  |
 | ------------- |:-------------:| -----:|
