@@ -31,6 +31,9 @@
   + 最大熵模型  [link](https://blog.csdn.net/itplus/article/details/26549871)
   + 关于协方差矩阵的理解  [link](https://blog.csdn.net/itplus/article/details/11452743)
   + word2vec [link](https://blog.csdn.net/itplus/article/details/37969979)
++ 史丹利复合田，各种优化方法
+  + momentum算法  [link](https://blog.csdn.net/tsyccnh/article/details/76270707)
+
 
 # 2、工程类的学习链接
 
