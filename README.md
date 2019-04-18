@@ -44,8 +44,10 @@
 
 + python进阶 [link](https://docs.pythontab.com/interpy/args_kwargs/README/)
 
-+ ps-lite [link](https://blog.csdn.net/zc02051126/article/details/50933502)
-
++ ps-lite 
+  + [link](https://blog.csdn.net/zc02051126/article/details/50933502)
+  + ps-lite使用笔记 [link](https://blog.csdn.net/weixin_42388406/article/details/81536551)
+  + parameter server [link](https://www.cnblogs.com/heguanyou/p/7868596.html)
 
 # 3、其他博客
 
