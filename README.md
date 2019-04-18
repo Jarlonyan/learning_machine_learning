@@ -38,6 +38,8 @@
 
 + numpy教程  [link](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247486490&idx=1&sn=9b9a1de0056c790f23834d4dff729e2e&chksm=fb39a911cc4e2007774690bec02d81578fa9db5dd124ff9dadaad5f41d2c64e1fce52b874dc1&mpshare=1&scene=23&srcid=#rd)
 
++ numpy教程2  [link](https://mp.weixin.qq.com/s/JzlYJtl7tEQQF7yLO6L8Qg)
+
 + python设计模式 [link](https://blog.csdn.net/weicao1990/article/details/79108193)
 
 + python进阶 [link](https://docs.pythontab.com/interpy/args_kwargs/README/)
