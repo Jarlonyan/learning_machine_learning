@@ -32,7 +32,9 @@
   + word2vec [link](https://blog.csdn.net/itplus/article/details/37969979)
 + 史丹利复合田，各种优化方法
   + momentum算法  [link](https://blog.csdn.net/tsyccnh/article/details/76270707)
-
++ Thaurun [Thaurun](https://www.cnblogs.com/heguanyou/)
+  + parameter server [link](https://www.cnblogs.com/heguanyou/p/7868596.html)
+  + L1的推导 [link](https://www.cnblogs.com/heguanyou/p/7582578.html/)
 
 # 2、工程类的学习链接
 
@@ -45,7 +47,7 @@
 + python进阶 [link](https://docs.pythontab.com/interpy/args_kwargs/README/)
 
 + ps-lite 
-  + [link](https://blog.csdn.net/zc02051126/article/details/50933502)
+  + ps-lite [link](https://blog.csdn.net/zc02051126/article/details/50933502)
   + ps-lite使用笔记 [link](https://blog.csdn.net/weixin_42388406/article/details/81536551)
   + parameter server [link](https://www.cnblogs.com/heguanyou/p/7868596.html)
 
