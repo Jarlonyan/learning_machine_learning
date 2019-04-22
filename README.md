@@ -44,7 +44,7 @@
 
 + Chrispher
   + FTRL-大规模LR模型  [link](http://www.datakit.cn/blog/2016/05/11/ftrl.html)
-  + 随机梯度下降综述(SGD、Monmentum、AdaGrad、AdaDelta、RMSprop、Adam)  [link])http://www.datakit.cn/blog/2016/07/04/sgd_01.html)
+  + 随机梯度下降综述(SGD、Monmentum、AdaGrad、AdaDelta、RMSprop、Adam)  [link](http://www.datakit.cn/blog/2016/07/04/sgd_01.html)
 
 # 2、工程类的学习链接
 
