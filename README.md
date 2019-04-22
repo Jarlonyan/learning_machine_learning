@@ -61,11 +61,15 @@
   + ps-lite使用笔记 [link](https://blog.csdn.net/weixin_42388406/article/details/81536551)
   + parameter server [link](https://www.cnblogs.com/heguanyou/p/7868596.html)
 
-# 3、其他博客
+# 3、理论知识的学习链接
+  + 概率论学习  [link](https://seeing-theory.brown.edu/probability-distributions/cn.html)
+
+
+# 4、其他博客
 
 + 阮一峰的博客：[ruanyifeng](http://www.ruanyifeng.com/blog/)
 
-# 4、机器学习的应用
+# 5、机器学习的应用
 
 |  应用场景        |     详细链接   |   备注  |
 | ------------- |:-------------:| -----:|
