@@ -68,6 +68,7 @@
 # 4、其他博客
 
 + 阮一峰的博客：[ruanyifeng](http://www.ruanyifeng.com/blog/)
+  + YAML教程 [link](http://www.ruanyifeng.com/blog/2016/07/yaml.html)
 
 # 5、机器学习的应用
 
