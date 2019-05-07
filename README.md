@@ -61,6 +61,9 @@
   + ps-lite使用笔记 [link](https://blog.csdn.net/weixin_42388406/article/details/81536551)
   + parameter server [link](https://www.cnblogs.com/heguanyou/p/7868596.html)
 
++ TensorFlow实现FM [link](http://www.manongjc.com/article/111197.html)
+
+
 # 3、理论知识的学习链接
   + 概率论学习  [link](https://seeing-theory.brown.edu/probability-distributions/cn.html)
 
