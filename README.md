@@ -49,6 +49,8 @@
   + CNN-Convolutional-neural-network [link](https://jhui.github.io/2017/03/16/CNN-Convolutional-neural-network/)
   + Soft-and-hard-Attendtion  [link](https://jhui.github.io/2017/03/15/Soft-and-hard-attention/)
   + CUDA  [link](https://jhui.github.io/2017/03/06/CUDA/)
+  + Tensorflow-tutorial  [link](https://jhui.github.io/2018/02/13/TensorFlow-tutorial/)
+  + TensorFlow-Estimator  [link](https://jhui.github.io/2017/03/14/TensorFlow-Estimator/)
 
 # 2、工程类的学习链接
 
