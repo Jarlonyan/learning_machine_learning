@@ -45,6 +45,10 @@
 + Chrispher
   + FTRL-大规模LR模型  [link](http://www.datakit.cn/blog/2016/05/11/ftrl.html)
   + 随机梯度下降综述(SGD、Monmentum、AdaGrad、AdaDelta、RMSprop、Adam)  [link](http://www.datakit.cn/blog/2016/07/04/sgd_01.html)
++ jhui
+  + CNN-Convolutional-neural-network [link](https://jhui.github.io/2017/03/16/CNN-Convolutional-neural-network/)
+  + Soft-and-hard-Attendtion  [link](https://jhui.github.io/2017/03/15/Soft-and-hard-attention/)
+  + CUDA  [link](https://jhui.github.io/2017/03/06/CUDA/)
 
 # 2、工程类的学习链接
 
