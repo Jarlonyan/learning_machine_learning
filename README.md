@@ -45,7 +45,7 @@
 + Chrispher
   + FTRL-大规模LR模型  [link](http://www.datakit.cn/blog/2016/05/11/ftrl.html)
   + 随机梯度下降综述(SGD、Monmentum、AdaGrad、AdaDelta、RMSprop、Adam)  [link](http://www.datakit.cn/blog/2016/07/04/sgd_01.html)
-+ jhui
++ Jonathan Hui
   + CNN-Convolutional-neural-network [link](https://jhui.github.io/2017/03/16/CNN-Convolutional-neural-network/)
   + Soft-and-hard-Attendtion  [link](https://jhui.github.io/2017/03/15/Soft-and-hard-attention/)
   + CUDA  [link](https://jhui.github.io/2017/03/06/CUDA/)
@@ -75,16 +75,16 @@
 + TensorFlow实现FM [link](http://www.manongjc.com/article/111197.html)
 
 
-# 3、理论知识的学习链接
+# 4、理论知识的学习链接
   + 概率论学习  [link](https://seeing-theory.brown.edu/probability-distributions/cn.html)
 
 
-# 4、其他博客
+# 5、其他博客
 
 + 阮一峰的博客：[ruanyifeng](http://www.ruanyifeng.com/blog/)
   + YAML教程 [link](http://www.ruanyifeng.com/blog/2016/07/yaml.html)
 
-# 5、机器学习的应用
+# 6、机器学习的应用
 
 |  应用场景        |     详细链接   |   备注  |
 | ------------- |:-------------:| -----:|
