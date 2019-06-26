@@ -52,7 +52,12 @@
   + Tensorflow-tutorial  [link](https://jhui.github.io/2018/02/13/TensorFlow-tutorial/)
   + TensorFlow-Estimator  [link](https://jhui.github.io/2017/03/14/TensorFlow-Estimator/)
 
-# 2、工程类的学习链接
+# 2、经典论文翻译
+  + ResNet翻译： [link](https://alvinzhu.xyz/2017/10/12/resnet/#top)
+  + Fast-RCNN翻译： [link](https://alvinzhu.xyz/2017/10/10/fast-r-cnn/)
+  + Dense-Net翻译： [link](https://alvinzhu.xyz/2017/10/07/densenet/)
+
+# 3、工程类的学习链接
 
 + numpy教程  [link](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247486490&idx=1&sn=9b9a1de0056c790f23834d4dff729e2e&chksm=fb39a911cc4e2007774690bec02d81578fa9db5dd124ff9dadaad5f41d2c64e1fce52b874dc1&mpshare=1&scene=23&srcid=#rd)
 
