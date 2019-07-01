@@ -74,6 +74,7 @@
 
 + TensorFlow实现FM [link](http://www.manongjc.com/article/111197.html)
 
++ kafka介绍： [link](http://zhengjianglong.cn/2018/04/14/kafka/kafka%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90(1)--%E6%A6%82%E8%BF%B0/)
 
 # 4、理论知识的学习链接
   + 概率论学习  [link](https://seeing-theory.brown.edu/probability-distributions/cn.html)
