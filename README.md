@@ -71,6 +71,7 @@
   + [ps-lite](https://blog.csdn.net/zc02051126/article/details/50933502)
   + [ps-lite使用笔记](https://blog.csdn.net/weixin_42388406/article/details/81536551)
   + [parameter server](https://www.cnblogs.com/heguanyou/p/7868596.html)
+  + [ps-lite源码分析](https://blog.csdn.net/KangRoger/article/details/73307685)
 
 + TensorFlow实现FM [link](http://www.manongjc.com/article/111197.html)
 
