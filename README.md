@@ -60,7 +60,7 @@
 # 3、工程类的学习链接
 
 + numpy教程
-  = [适合初学者快速入门的Numpy实战全集](https://mp.weixin.qq.com/s/JzlYJtl7tEQQF7yLO6L8Qg)
+  + [适合初学者快速入门的Numpy实战全集](https://mp.weixin.qq.com/s/JzlYJtl7tEQQF7yLO6L8Qg)
   + [清晰易懂的Numpy进阶教程](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247486490&idx=1&sn=9b9a1de0056c790f23834d4dff729e2e&chksm=fb39a911cc4e2007774690bec02d81578fa9db5dd124ff9dadaad5f41d2c64e1fce52b874dc1&mpshare=1&scene=23&srcid=#rd)
 
 + python设计模式 [link](https://blog.csdn.net/weicao1990/article/details/79108193)
@@ -68,9 +68,9 @@
 + python进阶 [link](https://docs.pythontab.com/interpy/args_kwargs/README/)
 
 + ps-lite 
-  + ps-lite [link](https://blog.csdn.net/zc02051126/article/details/50933502)
-  + ps-lite使用笔记 [link](https://blog.csdn.net/weixin_42388406/article/details/81536551)
-  + parameter server [link](https://www.cnblogs.com/heguanyou/p/7868596.html)
+  + [ps-lite](https://blog.csdn.net/zc02051126/article/details/50933502)
+  + [ps-lite使用笔记](https://blog.csdn.net/weixin_42388406/article/details/81536551)
+  + [parameter server](https://www.cnblogs.com/heguanyou/p/7868596.html)
 
 + TensorFlow实现FM [link](http://www.manongjc.com/article/111197.html)
 
