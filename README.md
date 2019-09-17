@@ -59,9 +59,9 @@
 
 # 3、工程类的学习链接
 
-+ numpy教程  [link](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247486490&idx=1&sn=9b9a1de0056c790f23834d4dff729e2e&chksm=fb39a911cc4e2007774690bec02d81578fa9db5dd124ff9dadaad5f41d2c64e1fce52b874dc1&mpshare=1&scene=23&srcid=#rd)
-
-+ numpy教程2  [link](https://mp.weixin.qq.com/s/JzlYJtl7tEQQF7yLO6L8Qg)
++ numpy教程
+  = [适合初学者快速入门的Numpy实战全集](https://mp.weixin.qq.com/s/JzlYJtl7tEQQF7yLO6L8Qg)
+  + [清晰易懂的Numpy进阶教程](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247486490&idx=1&sn=9b9a1de0056c790f23834d4dff729e2e&chksm=fb39a911cc4e2007774690bec02d81578fa9db5dd124ff9dadaad5f41d2c64e1fce52b874dc1&mpshare=1&scene=23&srcid=#rd)
 
 + python设计模式 [link](https://blog.csdn.net/weicao1990/article/details/79108193)
 
