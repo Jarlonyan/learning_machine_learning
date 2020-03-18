@@ -1,5 +1,5 @@
 
-# 1、机器学习优秀的博客
+# 1. 机器学习优秀的博客
 
 收集了一些关于机器学习的优秀博客，相关博主写了一系列的机器学习文章，非常好。其中，每个博客，选择了几篇代表性的文章。
 
@@ -36,18 +36,6 @@
   + parameter server [link](https://www.cnblogs.com/heguanyou/p/7868596.html)
   + L1的推导 [link](https://www.cnblogs.com/heguanyou/p/7582578.html/)
 
-+ 小毛驴
-  + 深度CTR预估模型中的特征自动组合机制演化简史  [link](http://xudongyang.coding.me/xdeepfm/)
-  + GBDT算法原理深入解析  [link](http://xudongyang.coding.me/gbdt/)
-  + 机器学习完整过程案例分步解析  [link](http://xudongyang.coding.me/machine-learning/)
-  + 构建分布式Tensorflow模型系列之CVR预估案例ESMM模型  [link](http://xudongyang.coding.me/esmm-1/)
-  + 基于行列式点过程的推荐多样性提升算法的直观理解 [link](https://yangxudong.github.io/fast-dpp-map/)
-
-+ **d0evi1（翻译了各种流行的推荐算法相关的paper)**
-  + 各种流行的推荐算法模型列表 [link](http://d0evi1.com/posts/)
-  + YouTube的MMoE模型 [link](http://d0evi1.com/youtube-mmoe/)
-  + Hulu的Fast Greedy MAP inference for Determinantal Point Process [link](http://d0evi1.com/fast-map-dpp/)
-
 + Chrispher
   + FTRL-大规模LR模型  [link](http://www.datakit.cn/blog/2016/05/11/ftrl.html)
   + 随机梯度下降综述(SGD、Monmentum、AdaGrad、AdaDelta、RMSprop、Adam)  [link](http://www.datakit.cn/blog/2016/07/04/sgd_01.html)
@@ -58,12 +46,28 @@
   + Tensorflow-tutorial  [link](https://jhui.github.io/2018/02/13/TensorFlow-tutorial/)
   + TensorFlow-Estimator  [link](https://jhui.github.io/2017/03/14/TensorFlow-Estimator/)
 
-# 2、经典论文翻译
+# 2. 推荐算法
+
++ **小毛驴**
+  + 深度CTR预估模型中的特征自动组合机制演化简史  [link](http://xudongyang.coding.me/xdeepfm/)
+  + GBDT算法原理深入解析  [link](http://xudongyang.coding.me/gbdt/)
+  + 机器学习完整过程案例分步解析  [link](http://xudongyang.coding.me/machine-learning/)
+  + 构建分布式Tensorflow模型系列之CVR预估案例ESMM模型  [link](http://xudongyang.coding.me/esmm-1/)
+  + 基于行列式点过程的推荐多样性提升算法的直观理解 [link](https://yangxudong.github.io/fast-dpp-map/)
+  + tf高阶API之FeatureColumn [link](https://yangxudong.github.io/tensorflow-feature-columns/)
+
++ **d0evi1（翻译了各种流行的推荐算法相关的paper)**
+  + 各种流行的推荐算法模型列表 [link](http://d0evi1.com/posts/)
+  + YouTube的MMoE模型 [link](http://d0evi1.com/youtube-mmoe/)
+  + Hulu的 fast-map-DPP [link](http://d0evi1.com/fast-map-dpp/)
+
+
+# 3. 经典论文翻译
   + ResNet翻译： [link](https://alvinzhu.xyz/2017/10/12/resnet/#top)
   + Fast-RCNN翻译： [link](https://alvinzhu.xyz/2017/10/10/fast-r-cnn/)
   + Dense-Net翻译： [link](https://alvinzhu.xyz/2017/10/07/densenet/)
 
-# 3、工程类的学习链接
+# 4. 工程类的学习链接
 
 + numpy教程
   + [适合初学者快速入门的Numpy实战全集](https://mp.weixin.qq.com/s/JzlYJtl7tEQQF7yLO6L8Qg)
@@ -83,16 +87,16 @@
 
 + kafka介绍： [link](http://zhengjianglong.cn/2018/04/14/kafka/kafka%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90(1)--%E6%A6%82%E8%BF%B0/)
 
-# 4、理论知识的学习链接
+# 5. 理论知识的学习链接
   + 概率论学习  [link](https://seeing-theory.brown.edu/probability-distributions/cn.html)
 
 
-# 5、其他博客
+# 6. 其他博客
 
 + 阮一峰的博客：[ruanyifeng](http://www.ruanyifeng.com/blog/)
   + YAML教程 [link](http://www.ruanyifeng.com/blog/2016/07/yaml.html)
 
-# 6、机器学习的应用
+# 7. 机器学习的应用
 
 |  应用场景        |     详细链接   |   备注  |
 | ------------- |:-------------:| -----:|
