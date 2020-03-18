@@ -41,6 +41,7 @@
   + GBDT算法原理深入解析  [link](http://xudongyang.coding.me/gbdt/)
   + 机器学习完整过程案例分步解析  [link](http://xudongyang.coding.me/machine-learning/)
   + 构建分布式Tensorflow模型系列之CVR预估案例ESMM模型  [link](http://xudongyang.coding.me/esmm-1/)
+  + 基于行列式点过程的推荐多样性提升算法的直观理解 [link](https://yangxudong.github.io/fast-dpp-map/)
 
 + Chrispher
   + FTRL-大规模LR模型  [link](http://www.datakit.cn/blog/2016/05/11/ftrl.html)
