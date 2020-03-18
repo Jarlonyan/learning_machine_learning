@@ -43,7 +43,7 @@
   + 构建分布式Tensorflow模型系列之CVR预估案例ESMM模型  [link](http://xudongyang.coding.me/esmm-1/)
   + 基于行列式点过程的推荐多样性提升算法的直观理解 [link](https://yangxudong.github.io/fast-dpp-map/)
 
-+ **d0evi1（翻译了各种流行的paper)***
++ **d0evi1（翻译了各种流行的推荐算法相关的paper)**
   + 各种流行的推荐算法模型列表 [link](http://d0evi1.com/posts/)
   + YouTube的MMoE模型 [link](http://d0evi1.com/youtube-mmoe/)
   + Hulu的Fast Greedy MAP inference for Determinantal Point Process [link](http://d0evi1.com/fast-map-dpp/)
