@@ -45,7 +45,7 @@
   + CUDA  [link](https://jhui.github.io/2017/03/06/CUDA/)
   + Tensorflow-tutorial  [link](https://jhui.github.io/2018/02/13/TensorFlow-tutorial/)
   + TensorFlow-Estimator  [link](https://jhui.github.io/2017/03/14/TensorFlow-Estimator/)
-+ hellozhaozhang
++ ZeroZone
   + 经典算法 [link](https://hellozhaozheng.github.io/z_post/%E9%9D%A2%E8%AF%95-%E7%AE%97%E6%B3%95%E5%88%B7%E9%A2%98-%E7%AE%97%E6%B3%95%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E6%95%B4%E7%90%86/)
 
 
