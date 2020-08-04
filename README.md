@@ -65,6 +65,7 @@
   + Hulu的 fast-map-DPP [link](http://d0evi1.com/fast-map-dpp/)
   
 + **pytorch实现的推荐模型** [link](https://github.com/jrzaurin/pytorch-widedeep)
++ tsingjyujing [link](https://blog.tsingjyujing.com/ml/recsys/collection)
 
 
 # 3. 经典论文翻译
