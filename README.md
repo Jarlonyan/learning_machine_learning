@@ -63,6 +63,8 @@
   + 各种流行的推荐算法模型列表 [link](http://d0evi1.com/posts/)
   + YouTube的MMoE模型 [link](http://d0evi1.com/youtube-mmoe/)
   + Hulu的 fast-map-DPP [link](http://d0evi1.com/fast-map-dpp/)
+  
++ **pytorch实现的推荐模型** [link](https://github.com/jrzaurin/pytorch-widedeep)
 
 
 # 3. 经典论文翻译
