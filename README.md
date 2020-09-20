@@ -3,6 +3,9 @@
 
 收集了一些关于机器学习的优秀博客，相关博主写了一系列的机器学习文章，非常好。其中，每个博客，选择了几篇代表性的文章。
 
++ 阿泽的学习笔记 [link](https://blog.csdn.net/qq_27075943)
++ 矩阵求导、概率基础知识 [link](https://blog.csdn.net/weixin_43269174/article/details/100124783)
+
 + **kexue.fm，机器学习相关，质量很高：[kexue.fm](https://kexue.fm/archives/5112)**
   + 从K-Means到Capsule  [link](https://kexue.fm/archives/5112)
   + 基于fine tune的图像分类（百度分狗竞赛） [link](https://kexue.fm/archives/4611)
