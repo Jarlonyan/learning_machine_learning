@@ -114,3 +114,44 @@
 |  自然语言处理  |  [https://github.com/Jarlonyan/mlapplication/blob/master/ml_NLP.md](https://github.com/Jarlonyan/mlapplication/blob/master/ml_NLP.md)   |  
 |    股票       |  [https://github.com/Jarlonyan/mlapplication/blob/master/ml_stock.md](https://github.com/Jarlonyan/mlapplication/blob/master/ml_stock.md)  | 
 
+
+
+
+
+# 8. 数据集
+## 8.1.金融数据
+
+[股票数据](https://zhuanlan.zhihu.com/p/25138563)
+
+## 8.2. 聚类数据集
+
++ [cs.joensuu.fi](http://cs.joensuu.fi/sipu/datasets/)
+
+
+## 8.3. 社交网络数据集
+
++ [MarkNewman](http://www-personal.umich.edu/~mejn/netdata/)  
++ [斯坦福网络数据SNAP](http://snap.stanford.edu/data/index.html)  
++ [Konect  Network Collection](http://konect.uni-koblenz.de/)  
++ [SocialComputing.asu](http://socialcomputing.asu.edu/pages/datasets)  
++ [Network Repository](http://networkrepository.com/)  
++ [Yishi Lin 林一施](https://dango.rocks/datasets/#communities)  
++ [LFR人工网络数据集工具](http://santo.fortunato.googlepages.com/benchmark.tgz)  
+  LFR是一个Linux-C++工具，所以必须安装g++。 
+  
+  **LFR生成网络步骤**
+
+首选跳转到LFR的binary_network目录中compile一下。
+```
+$ make
+```
+
+这样会生成一个benchmark文件，它就是我们构建网络的工具。使用benchmark生成一个网络数据的简单的例子：
+
+```
+$ ./benchmark -f flags.dat -t1 3
+```
+
+
+
+
